@@ -1,0 +1,5 @@
+com\cpruvost\helidonse\GreetService.class
+com\cpruvost\helidonse\rooting\BookResource.class
+com\cpruvost\helidonse\rooting\BookManager.class
+com\cpruvost\helidonse\Main.class
+com\cpruvost\helidonse\rooting\Book.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cpruvost.helidonse.MainTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.271 sec - in com.cpruvost.helidonse.MainTest
